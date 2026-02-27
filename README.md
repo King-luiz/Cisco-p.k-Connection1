@@ -1,11 +1,11 @@
 
-```markdown
+
 # ⚡ NETWORK NINJA: ICMP Attack Simulation ⚡
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/106f05e8-be7e-41ca-9001-d23a0c81d4c7" />
+![Network Topology](image.png)
 
-```bash
 > CONNECTION ESTABLISHED | PACKETS IN TRANSIT | NETWORK SECURED
+```
 ```
 
 ## 🎯 MISSION BRIEFING
