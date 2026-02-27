@@ -1,12 +1,5 @@
 
-
 # ⚡ NETWORK NINJA: ICMP Attack Simulation ⚡
-
-![Network Topology](image.png)
-
-> CONNECTION ESTABLISHED | PACKETS IN TRANSIT | NETWORK SECURED
-```
-```
 
 ## 🎯 MISSION BRIEFING
 
